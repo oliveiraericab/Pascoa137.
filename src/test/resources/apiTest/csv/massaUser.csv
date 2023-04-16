@@ -1,0 +1,10 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+15215913,joaodasilva,João,Silva,joaosilva@teste.com,abc123,11998564532,1
+15215914,mariaoliveira,Maria,Oliveira,maria.oliveira@teste.com,xyz789,21998765432,0
+15215915,pedrohenrique,Pedro,Henrique,pedro.henrique@teste.com,456def,31996543210,1
+15215916,juliacastro,Júlia,Castro,julia.castro@teste.com,qwerty123,21994321098,0
+15215917,renatoalmeida,Renato,Almeida,renato.almeida@teste.com,789ghi,11987654321,1
+15215918,mariagomes,Maria,Gomes,maria.gomes@teste.com,xyz987,21987654321,0
+15215919,luizpereira,Luiz,Pereira,luiz.pereira@teste.com,abc789,31999987654,1
+15215920,anacarvalho,Ana,Carvalho,ana.carvalho@teste.com,def456,21999987654,0
+15215921,marcelorodrigues,Marcelo,Rodrigues,marcelo.rodrigues@teste.com,123abc,11997765432,1
